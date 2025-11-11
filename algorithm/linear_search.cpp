@@ -22,11 +22,11 @@ int main()
     {
         if (i == random_num)
         {
-            cout << "I number was " << random_num << "\n";
+            cout << "I тоо нь " << random_num << "\n";
             auto end = high_resolution_clock::now();
             duration<double> elapsed = end - start;
             cout << fixed << setprecision(7);
-            cout << "Time taken: " << elapsed.count() << " seconds\n";
+            cout << "Нийт гүйцэтгэсэн хугацаа" << elapsed.count() << " микросекунд\n";
         }
         else
             continue;

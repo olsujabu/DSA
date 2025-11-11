@@ -19,5 +19,4 @@ b = 3
 exponent = b ** (p2 - 1)
 equation = exponent % p2
 
-
 print(equation)

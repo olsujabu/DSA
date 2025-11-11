@@ -3,7 +3,6 @@
 # date : 20/08/2025 18:48
 # title : Modular Arithmetic
 # resource : https://www.geeksforgeeks.org/engineering-mathematics/modular-arithmetic/
-#
 
 def modular_arithmetic():
     a = 38
