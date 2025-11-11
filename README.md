@@ -1,7 +1,3 @@
-Here’s your **GitHub-ready README** — English first, then Mongolian version. It’s fully formatted in Markdown and cleanly structured for GitHub display:
-
----
-
 # 🚀 My DSA Learning Journey
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository!
@@ -112,5 +108,3 @@ cd DSA
 ### 💡 Тэмдэглэл
 
 Энэ репо миний суралцах явцын дагуу өсөн нэмэгдэх бөгөөд файл бүр миний ахиц, ойлголтыг харуулна.
-
-Would you like me to make it **visually bilingual** (side-by-side columns using Markdown tables) for a cleaner GitHub layout?
