@@ -1,3 +1,6 @@
+// author : Buyandelger.J
+// date : 23/11/2025 20:12
+// title :  Random Battle ship
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
