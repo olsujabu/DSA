@@ -1,7 +1,15 @@
 // author : Buyandelger.J
 // date : 02/12/2025 00:26
 // title :  Radix sort
+// Radix эрэмбэлэх нь integer эсвэл string зэрэг тогтмол хэмжээтэй массивтай үед сайн ажилладаг.
+
 /*
+Time Complexity :
+    Integers (k digits) → O(k * n)
+    Fixed string (L length) → O(L * n)
+    k ба L хоёулаа тогтмол бол
+    шууд O(n) болж хувирдаг.
+
 Радикс эрэмбэлэлт нь:
     1-ийн орон
     10-ийн орон
