@@ -1,3 +1,7 @@
+# author : Buyandelger.J
+# date : 01/12/2025 14:28
+# title : Sudoku game, inspired by sudoku.com. In my free time, I always solve Sudoku puzzles 
+# to refresh my mind. It helps me focus deeply on one thing, almost like meditation.
 import random
 import copy
 
